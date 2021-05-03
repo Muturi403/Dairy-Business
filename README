@@ -1,0 +1,24 @@
+# Dairy Farm Project.
+#### Its all about a farm record that is documented and written to denote the various produces in a farm,daily, weekly and also yearly ,  2 May 2021.
+#### By Faith.W.Muturi
+## Description
+My dairy farm record keeps an account of my farm produce so i can be able to manage my farm both the profits, loses and the maintainances.
+## Setup/Installation Requirements
+* Ensure your windows is updated.
+* Have atleast Github page in your phone or laptop.
+## Known Bugs
+No issues at the moment ,but to be on the safer side just ensure your android is updated.
+## Technologies Used
+Basically used HTML, CSS and  the javascript, just basics of little detailed floats, box-model and other different properties both in the 3 different languanges. 
+## Support and contact details
+If any question or comments, reach out through this Email : muturifaith92@gmail.com.
+### License
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Copyright (c) 2021 Muturi403
